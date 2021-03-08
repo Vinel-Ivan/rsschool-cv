@@ -32,3 +32,12 @@
  }
 
  ```
+ 5. ### Experience:
+
+* For now i have only self education as an experience
+
+6. ### Education:
+
+* BSUIR, Faculty of Computer Systems and Networks, Department of Electronic Computing Machines
+* A1QA, Software Testing
+* Online Learning: www.udemy.com
