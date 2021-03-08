@@ -21,3 +21,14 @@
  Programming languages | Frameworks | Methodologies | Version control
  --------- | --------- | --------- | --------- |
  C++/C# | .Net/QT | Scrum/Waterfall/Kanban/Scrumban | Git 
+
+ 4. ### Code Examples:
+
+```js
+
+ const checkPalindrome = (str) => {
+  const reversedStr = str.split('').reverse().join('');
+  return reversedStr === str;
+ }
+
+ ```
