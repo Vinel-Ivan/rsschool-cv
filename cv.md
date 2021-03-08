@@ -15,3 +15,9 @@
     * Good team relations
     * Earning of good developer skills
 * For now i have no developer experience, but i have an ability to learn something new fast and because of this i want to take huge amount of new knowlege and experiance from any source to become a good developer
+
+3. ### Skills:
+
+ Programming languages | Frameworks | Methodologies | Version control
+ --------- | --------- | --------- | --------- |
+ C++/C# | .Net/QT | Scrum/Waterfall/Kanban/Scrumban | Git 
