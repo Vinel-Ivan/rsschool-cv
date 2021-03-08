@@ -41,3 +41,9 @@
 * BSUIR, Faculty of Computer Systems and Networks, Department of Electronic Computing Machines
 * A1QA, Software Testing
 * Online Learning: www.udemy.com
+
+7. ### English:
+
+* Reading technical literature
+* Watching online courses
+* Сommunication with a native speakers 
